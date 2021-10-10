@@ -26,7 +26,7 @@ also I used stripe for payment gateway.
 
 
 ## Index Page
-![Screen Shot](https://github.com/CihatKOCAK/shopping-cart/blob/main/README/index.PNG)
+![Screen Shot](https://github.com/CihatKOCAK/shopping-cart/blob/main/README/index.PNG =500x500)
 ## Shipping Cart Page
 ![Screen Shot](README/shippingCart.PNG)
 ## Checkout Page
@@ -34,7 +34,7 @@ also I used stripe for payment gateway.
 <br/>
 ![Screen Shot](README/test-cart-number.PNG)
 
-<p>also for detailed information: <a href ="https://stripe.com/docs/testing"> </a> </p><br/>
+<p>also for detailed information: <a href ="https://stripe.com/docs/testing"> Stripe Testing</a> </p><br/>
 
 ![Screen Shot](README/checkout-s2.PNG)<br/>
 
