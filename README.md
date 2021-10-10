@@ -26,7 +26,7 @@ also I used stripe for payment gateway.
 
 
 ## Index Page
-![Screen Shot](https://github.com/CihatKOCAK/shopping-cart/blob/main/README/index.PNG =500x500)
+![Screen Shot](https://github.com/CihatKOCAK/shopping-cart/blob/main/README/index.PNG)
 ## Shipping Cart Page
 ![Screen Shot](README/shippingCart.PNG)
 ## Checkout Page
