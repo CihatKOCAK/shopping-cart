@@ -31,10 +31,11 @@ also I used stripe for payment gateway.
 ![Screen Shot](README/shippingCart.PNG)
 ## Checkout Page
 ![Screen Shot](README/checkout-s1.PNG)
+<br/>
 ![Screen Shot](README/test-cart-number.PNG)
-also for detailed information: <a href ="https://stripe.com/docs/testing"> </a>
-![Screen Shot](README/checkout-s2.PNG)
-![Screen Shot](README/checkout-s3.PNG)
+<p>also for detailed information: <a href ="https://stripe.com/docs/testing"> </a> </p><br/>
+![Screen Shot](README/checkout-s2.PNG)<br/>
+![Screen Shot](README/checkout-s3.PNG)<br/>
 ![Screen Shot](README/checkout-s4.PNG)
 ## Costumer Mail
 
