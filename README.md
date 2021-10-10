@@ -16,7 +16,7 @@
 
 ## About The Project
 
-I used dashboard.chec.io for products, category, users and payment method,
+I used <a href ="dashboard.chec.io"> dashboard.chec.io</a> for products, category, users and payment method,
 also I used stripe for payment gateway.
 
 
@@ -32,11 +32,10 @@ also I used stripe for payment gateway.
 ## Checkout Page
 ![Screen Shot](README/checkout-s1.PNG)
 <br/>
+![Screen Shot](README/checkout-s2.PNG)<br/>
 ![Screen Shot](README/test-cart-number.PNG)
 
 <p>also for detailed information: <a href ="https://stripe.com/docs/testing"> Stripe Testing</a> </p><br/>
-
-![Screen Shot](README/checkout-s2.PNG)<br/>
 
 ![Screen Shot](README/checkout-s3.PNG)<br/>
 
