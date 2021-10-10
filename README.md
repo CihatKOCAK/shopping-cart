@@ -26,7 +26,7 @@ also I used stripe for payment gateway.
 <br/>
 <br/>
 ## Index Page
-![Screen Shot](README/index.png)
+![Screen Shot](blob/main/README/adminMail.PNG)
 ## Shipping Cart Page
 ![Screen Shot](README/shippingCart.png)
 ## Checkout Page
