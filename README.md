@@ -23,8 +23,8 @@ also I used stripe for payment gateway.
 
 
 *Beautiful simple and useful e-commerce site theme, I will show pages and functions with pictures
-<br/>
-<br/>
+
+
 ## Index Page
 ![Screen Shot](https://github.com/CihatKOCAK/shopping-cart/blob/main/README/index.PNG)
 ## Shipping Cart Page
@@ -33,17 +33,25 @@ also I used stripe for payment gateway.
 ![Screen Shot](README/checkout-s1.PNG)
 <br/>
 ![Screen Shot](README/test-cart-number.PNG)
+
 <p>also for detailed information: <a href ="https://stripe.com/docs/testing"> </a> </p><br/>
+
 ![Screen Shot](README/checkout-s2.PNG)<br/>
+
 ![Screen Shot](README/checkout-s3.PNG)<br/>
+
 ![Screen Shot](README/checkout-s4.PNG)
+
 ## Costumer Mail
 
 e-mail sent to the customer after the payment process is completed
+
 ![Screen Shot](README/mailCostumer.PNG)
+
 ## Admin Mail
 
 e-mail sent to the administrator after the payment process is completed
+
 ![Screen Shot](README/adminMail.PNG)
 
 
