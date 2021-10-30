@@ -12,7 +12,7 @@
   </p>
 </p>
 
-![License](https://img.shields.io/github/license/iksipias/E-Commerce) 
+![License](https://img.shields.io/github/license/CihatKOCAK/shopping-cart) 
 
 ## About The Project
 
