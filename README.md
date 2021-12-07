@@ -16,7 +16,7 @@
 
 ## About The Project
 
-I used <a href ="dashboard.chec.io"> dashboard.chec.io</a> for products, category, users and payment method,
+I used <a href ="https://dashboard.chec.io"> dashboard.chec.io</a> for products, category, users and payment method,
 also I used <a href ="https://stripe.com/"> stripe</a> for payment gateway.
 
 
